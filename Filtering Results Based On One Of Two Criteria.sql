@@ -1,5 +1,5 @@
 /* What Are The Departments That Are Going To Be Promoted? */
--- Let's say that a company called ComX want to give a promotion to it's department
+-- Let's say that a company called ComX wants to give a promotion to it's department
 -- A promotion is given based on one of these two criteria
 -- The first criterion is that the revenue of a department is more than or equal to 10,000 USD
 -- The second criterion is that the total customers of a department is more than or equal to 1000 customers
